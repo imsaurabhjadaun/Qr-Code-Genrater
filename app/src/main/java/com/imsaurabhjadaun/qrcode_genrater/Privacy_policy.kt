@@ -48,7 +48,7 @@ fun PrivacyPolicy(navController: NavController) {
 
         Text(
             text = "1. Introduction\n\n" +
-                    "Welcome to the QR Code Generator app (\"App\"), developed by Zohaib Khan (\"Developer\"). This Privacy Policy outlines how we collect, use, disclose, and protect your personal information when you use our App. By using the App, you agree to the collection and use of information in accordance with this policy.\n\n",
+                    "Welcome to the QR Code Generator app (\"App\"), developed by Saurabh Kumar (\"Developer\"). This Privacy Policy outlines how we collect, use, disclose, and protect your personal information when you use our App. By using the App, you agree to the collection and use of information in accordance with this policy.\n\n",
             style = titleStyle
         )
 
